@@ -1,0 +1,440 @@
+Uri: https://fonts.googleapis.com/css?family=Nunito:700,700i,400,400i&subset=cyrillic
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Oswald:700,700i,400,400i&subset=cyrillic
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v7/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\s\inter\v7\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v7/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\s\inter\v7\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v7/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\s\inter\v7\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v7/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\s\inter\v7\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v7/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\s\inter\v7\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v7/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\s\inter\v7\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v7/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\s\inter\v7\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v7/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\s\inter\v7\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v7/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\s\inter\v7\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v20/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTA3ig.ttf
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\s\nunito\v20\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTA3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v20/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTA3ig.ttf
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\s\nunito\v20\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTA3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v20/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHiabf.ttf
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\s\nunito\v20\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHiabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v20/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHiabf.ttf
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\s\nunito\v20\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHiabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v40/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUJiYA.ttf
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\s\oswald\v40\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUJiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v40/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUJiYA.ttf
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\s\oswald\v40\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUJiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fwafaw.ukit.me/
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\index.htm
+Content Type: text/html
+
+Uri: https://fwafaw.ukit.me/css/devicePublish.min.css?v=2022_01_20T12_09_47_03_00_c8bf93deb4a64e523a860277003567a29169019d
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\css\devicePublish.min.css
+Content Type: text/css
+
+Uri: https://fwafaw.ukit.me/css/lib/animate.min.css?v=2022_01_20T12_09_47_03_00_c8bf93deb4a64e523a860277003567a29169019d
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\css\lib\animate.min.css
+Content Type: text/css
+
+Uri: https://fwafaw.ukit.me/css/lib/bootstrap.min.css?v=2022_01_20T12_09_47_03_00_c8bf93deb4a64e523a860277003567a29169019d
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\css\lib\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://fwafaw.ukit.me/css/require/scroll-animation.css?v=2022_01_20T12_09_47_03_00_c8bf93deb4a64e523a860277003567a29169019d
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\css\require\scroll-animation.css
+Content Type: text/css
+
+Uri: https://fwafaw.ukit.me/dist-version/css/pub.v1.css?v=2022_01_20T12_09_47_03_00_c8bf93deb4a64e523a860277003567a29169019d
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\dist-version\css\pub.v1.css
+Content Type: text/css
+
+Uri: https://fwafaw.ukit.me/dist-version/js/pub.v1.bundle.js?v=2022_01_20T12_09_47_03_00_c8bf93deb4a64e523a860277003567a29169019d
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\dist-version\js\pub.v1.bundle.js
+Content Type: application/javascript
+
+Uri: https://fwafaw.ukit.me/favicon.ico?v=03488689354858554
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://fwafaw.ukit.me/fonts/ukit-published/ukit-published.eot?1586855985
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\fonts\ukit-published\ukit-published.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fwafaw.ukit.me/fonts/ukit-published/ukit-published.svg?1586855985
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\fonts\ukit-published\ukit-published.svg
+Content Type: image/svg+xml
+
+Uri: https://fwafaw.ukit.me/fonts/ukit-published/ukit-published.ttf?1586855985
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\fonts\ukit-published\ukit-published.ttf
+Content Type: application/octet-stream
+
+Uri: https://fwafaw.ukit.me/fonts/ukit-published/ukit-published.woff2?1586855985
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\fonts\ukit-published\ukit-published.woff2
+Content Type: application/octet-stream
+
+Uri: https://fwafaw.ukit.me/fonts/ukit-published/ukit-published.woff?1586855985
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\fonts\ukit-published\ukit-published.woff
+Content Type: application/font-woff
+
+Uri: https://fwafaw.ukit.me/img/avatar_placeholder.svg
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\img\avatar_placeholder.svg
+Content Type: image/svg+xml
+
+Uri: https://fwafaw.ukit.me/img/constructor/map-placeholder-screenshot-google.jpg
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\img\constructor\map-placeholder-screenshot-google.jpg
+Content Type: image/jpeg
+
+Uri: https://fwafaw.ukit.me/img/constructor/map-placeholder-screenshot-yandex.jpg
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\img\constructor\map-placeholder-screenshot-yandex.jpg
+Content Type: image/jpeg
+
+Uri: https://fwafaw.ukit.me/img/icons/widget-imageplaceholder.svg
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\img\icons\widget-imageplaceholder.svg
+Content Type: image/svg+xml
+
+Uri: https://fwafaw.ukit.me/img/loader.svg
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\img\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://fwafaw.ukit.me/img/loader_dark.gif
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\img\loader_dark.gif
+Content Type: image/gif
+
+Uri: https://fwafaw.ukit.me/img/loader_light.gif
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\img\loader_light.gif
+Content Type: image/gif
+
+Uri: https://fwafaw.ukit.me/img/loading.gif
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\img\loading.gif
+Content Type: image/gif
+
+Uri: https://fwafaw.ukit.me/img/red_arrow.png
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\img\red_arrow.png
+Content Type: image/png
+
+Uri: https://fwafaw.ukit.me/img/ukit-copyright-dark.svg
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\img\ukit-copyright-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://fwafaw.ukit.me/img/ukit-copyright-light.svg
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\img\ukit-copyright-light.svg
+Content Type: image/svg+xml
+
+Uri: https://fwafaw.ukit.me/img/upbutton.svg
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\img\upbutton.svg
+Content Type: image/svg+xml
+
+Uri: https://fwafaw.ukit.me/js/lib/cssrelpreload.js?v=2022_01_20T12_09_47_03_00_c8bf93deb4a64e523a860277003567a29169019d
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\js\lib\cssrelpreload.js
+Content Type: application/javascript
+
+Uri: https://fwafaw.ukit.me/js/lib/modernizr-webp.js?v=2022_01_20T12_09_47_03_00_c8bf93deb4a64e523a860277003567a29169019d
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\js\lib\modernizr-webp.js
+Content Type: application/javascript
+
+Uri: https://fwafaw.ukit.me/js/lib/requirejs.min.js?v=2022_01_20T12_09_47_03_00_c8bf93deb4a64e523a860277003567a29169019d
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\js\lib\requirejs.min.js
+Content Type: application/javascript
+
+Uri: https://fwafaw.ukit.me/js/ulib/backgroundBlockColor.js?v=2022_01_20T12_09_47_03_00_c8bf93deb4a64e523a860277003567a29169019d
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\js\ulib\backgroundBlockColor.js
+Content Type: application/javascript
+
+Uri: https://fwafaw.ukit.me/js/ulib/critical.js?v=2022_01_20T12_09_47_03_00_c8bf93deb4a64e523a860277003567a29169019d
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\js\ulib\critical.js
+Content Type: application/javascript
+
+Uri: https://fwafaw.ukit.me/js/ulib/orderForm.js?v=2022_01_20T12_09_47_03_00_c8bf93deb4a64e523a860277003567a29169019d
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\js\ulib\orderForm.js
+Content Type: application/javascript
+
+Uri: https://fwafaw.ukit.me/js/ulib/performance.js?v=2022_01_20T12_09_47_03_00_c8bf93deb4a64e523a860277003567a29169019d
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\js\ulib\performance.js
+Content Type: application/javascript
+
+Uri: https://fwafaw.ukit.me/js/ulib/scroll-animation.js?v=2022_01_20T12_09_47_03_00_c8bf93deb4a64e523a860277003567a29169019d
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\js\ulib\scroll-animation.js
+Content Type: application/javascript
+
+Uri: https://fwafaw.ukit.me/sitecss/srcset-61f0461fe07c941eb25994c8-all.css?v=3
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\sitecss\srcset-61f0461fe07c941eb25994c8-all.css
+Content Type: text/css
+
+Uri: https://fwafaw.ukit.me/sitecss/typography.css?v=3
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\sitecss\typography.css
+Content Type: text/css
+
+Uri: https://fwafaw.ukit.me/templates/new_banking/css/main-g-theme-site-1-desktop.css
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\templates\new_banking\css\main-g-theme-site-1-desktop.css
+Content Type: text/css
+
+Uri: https://fwafaw.ukit.me/templates/new_banking/css/main-g-theme-site-1-phone.css
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\templates\new_banking\css\main-g-theme-site-1-phone.css
+Content Type: text/css
+
+Uri: https://fwafaw.ukit.me/templates/new_banking/css/main-g-theme-site-1-tablet.css
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\templates\new_banking\css\main-g-theme-site-1-tablet.css
+Content Type: text/css
+
+Uri: https://fwafaw.ukit.me/templates/new_banking/fonts/fontawesome/fontawesome-webfont.eot
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\templates\new_banking\fonts\fontawesome\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fwafaw.ukit.me/templates/new_banking/fonts/fontawesome/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\templates\new_banking\fonts\fontawesome\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fwafaw.ukit.me/templates/new_banking/fonts/fontawesome/fontawesome-webfont.ttf
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\templates\new_banking\fonts\fontawesome\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://fwafaw.ukit.me/templates/new_banking/fonts/fontawesome/fontawesome-webfont.woff
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\templates\new_banking\fonts\fontawesome\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://fwafaw.ukit.me/templates/new_banking/fonts/fontawesome/fontawesome-webfont.woff2
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\templates\new_banking\fonts\fontawesome\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://fwafaw.ukit.me/templates/new_banking/fonts/icomoon/icomoon.eot?-6ephfk
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\templates\new_banking\fonts\icomoon\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fwafaw.ukit.me/templates/new_banking/fonts/icomoon/icomoon.svg?-6ephfk
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\templates\new_banking\fonts\icomoon\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://fwafaw.ukit.me/templates/new_banking/fonts/icomoon/icomoon.ttf?-6ephfk
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\templates\new_banking\fonts\icomoon\icomoon.ttf
+Content Type: application/octet-stream
+
+Uri: https://fwafaw.ukit.me/templates/new_banking/fonts/icomoon/icomoon.woff?-6ephfk
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\templates\new_banking\fonts\icomoon\icomoon.woff
+Content Type: application/font-woff
+
+Uri: https://fwafaw.ukit.me/templates/new_banking/fonts/icomoon/iconscontacts.eot?-6ephfk
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\templates\new_banking\fonts\icomoon\iconscontacts.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fwafaw.ukit.me/templates/new_banking/fonts/icomoon/iconscontacts.svg?-6ephfk
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\templates\new_banking\fonts\icomoon\iconscontacts.svg
+Content Type: image/svg+xml
+
+Uri: https://fwafaw.ukit.me/templates/new_banking/fonts/icomoon/iconscontacts.ttf?-6ephfk
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\templates\new_banking\fonts\icomoon\iconscontacts.ttf
+Content Type: application/octet-stream
+
+Uri: https://fwafaw.ukit.me/templates/new_banking/fonts/icomoon/iconscontacts.woff?-6ephfk
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\templates\new_banking\fonts\icomoon\iconscontacts.woff
+Content Type: application/font-woff
+
+Uri: https://fwafaw.ukit.me/templates/new_banking/img/moimirbw.svg
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\templates\new_banking\img\moimirbw.svg
+Content Type: image/svg+xml
+
+Uri: https://fwafaw.ukit.me/templates/new_banking/img/sliderleft.svg
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\templates\new_banking\img\sliderleft.svg
+Content Type: image/svg+xml
+
+Uri: https://fwafaw.ukit.me/templates/new_banking/img/sliderright.svg
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\templates\new_banking\img\sliderright.svg
+Content Type: image/svg+xml
+
+Uri: https://fwafaw.ukit.me/templates/new_banking/img/Telega.svg
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\templates\new_banking\img\Telega.svg
+Content Type: image/svg+xml
+
+Uri: https://fwafaw.ukit.me/widgets/backCall/img/icon/phone.svg
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\widgets\backCall\img\icon\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://fwafaw.ukit.me/widgets/cart/fonts/cart.eot?3v9alv
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\widgets\cart\fonts\cart.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fwafaw.ukit.me/widgets/cart/fonts/cart.svg?3v9alv
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\widgets\cart\fonts\cart.svg
+Content Type: image/svg+xml
+
+Uri: https://fwafaw.ukit.me/widgets/cart/fonts/cart.ttf?3v9alv
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\widgets\cart\fonts\cart.ttf
+Content Type: application/octet-stream
+
+Uri: https://fwafaw.ukit.me/widgets/cart/fonts/cart.woff?3v9alv
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\widgets\cart\fonts\cart.woff
+Content Type: application/font-woff
+
+Uri: https://fwafaw.ukit.me/widgets/feedBack/img/recaptcha.png
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\widgets\feedBack\img\recaptcha.png
+Content Type: image/png
+
+Uri: https://fwafaw.ukit.me/widgets/gallery/img/next.png
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\widgets\gallery\img\next.png
+Content Type: image/png
+
+Uri: https://fwafaw.ukit.me/widgets/gallery/img/prev.png
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\widgets\gallery\img\prev.png
+Content Type: image/png
+
+Uri: https://fwafaw.ukit.me/widgets/pinterest/img/ico.png
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\widgets\pinterest\img\ico.png
+Content Type: image/png
+
+Uri: https://fwafaw.ukit.me/widgets/sliderWysiwyg/img/next.png
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\widgets\sliderWysiwyg\img\next.png
+Content Type: image/png
+
+Uri: https://fwafaw.ukit.me/widgets/sliderWysiwyg/img/prev.png
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\widgets\sliderWysiwyg\img\prev.png
+Content Type: image/png
+
+Uri: https://fwafaw.ukit.me/widgets/weather/fonts/artill_clean_icons-webfont.eot
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\widgets\weather\fonts\artill_clean_icons-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fwafaw.ukit.me/widgets/weather/fonts/artill_clean_icons-webfont.eot?
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\widgets\weather\fonts\artill_clean_icons-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fwafaw.ukit.me/widgets/weather/fonts/artill_clean_icons-webfont.svg
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\widgets\weather\fonts\artill_clean_icons-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://fwafaw.ukit.me/widgets/weather/fonts/artill_clean_icons-webfont.ttf
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\widgets\weather\fonts\artill_clean_icons-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://fwafaw.ukit.me/widgets/weather/fonts/artill_clean_icons-webfont.woff
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\widgets\weather\fonts\artill_clean_icons-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=1152
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt-10.jpg
+Content Type: image/jpeg
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=1152&webp=1
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt-21.jpg
+Content Type: image/webp
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=1170
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt-5.jpg
+Content Type: image/jpeg
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=1170&webp=1
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt-16.jpg
+Content Type: image/webp
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=1366
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt-6.jpg
+Content Type: image/jpeg
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=1366&webp=1
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt-17.jpg
+Content Type: image/webp
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=1500
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt-7.jpg
+Content Type: image/jpeg
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=1500&webp=1
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt-18.jpg
+Content Type: image/webp
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=360
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt.jpg
+Content Type: image/jpeg
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=360&webp=1
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt-11.jpg
+Content Type: image/webp
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=480
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt-1.jpg
+Content Type: image/jpeg
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=480&webp=1
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt-12.jpg
+Content Type: image/webp
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=576
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt-2.jpg
+Content Type: image/jpeg
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=576&webp=1
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt-13.jpg
+Content Type: image/webp
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=720
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt-8.jpg
+Content Type: image/jpeg
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=720&webp=1
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt-19.jpg
+Content Type: image/webp
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=768
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt-3.jpg
+Content Type: image/jpeg
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=768&webp=1
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt-14.jpg
+Content Type: image/webp
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=960
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt-9.jpg
+Content Type: image/jpeg
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=960&webp=1
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt-20.jpg
+Content Type: image/webp
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=992
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt-4.jpg
+Content Type: image/jpeg
+
+Uri: https://fwafaw.ukit.me/__scale/templates/new_banking/img/full_otiDjIAt.jpg?quality=60&width=992&webp=1
+File Name: C:\Downloaded Web Sites\fwafaw.ukit.me\__scale\templates\new_banking\img\full_otiDjIAt-15.jpg
+Content Type: image/webp
+
